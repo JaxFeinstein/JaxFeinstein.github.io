@@ -13,11 +13,10 @@ Typical disclaimer that opinions are mine and do not represent the opinions of m
 
 ## Spring 2026
 
-<div style="padding-left: 20px; text-indent: -20px;">03-363 System's Neuroscience (w/ Eric Yttri)</div>
-10-301 Into to ML (w/ Matt Gormley & Pat Virtue)
-<div style="padding-left: 20px; text-indent: -20px;">15-210 Parallel & Seq Data Structure & Algorithms (w/ Daniel Anderson & Danny Sleator)</div>
-15-494 Cognitive Robitics (w/ Dave Touretzky)
-
+03-363 System's Neuroscience (w/ Eric Yttri)  
+10-301 Into to ML (w/ Matt Gormley & Pat Virtue)  
+15-210 Parallel & Seq Data Structure & Algorithms (w/ Daniel Anderson & Danny Sleator)  
+15-494 Cognitive Robitics (w/ Dave Touretzky)  
 33-104 Experimental Physics (w/ Sufei Shi)  
 98-317 Hype for Types (w/ Samson Rozansky & Shira Rubin)
 

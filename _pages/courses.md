@@ -4,7 +4,7 @@ permalink: /courses/
 title: Relevant Coursework
 description: CMU classes which shaped me.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 

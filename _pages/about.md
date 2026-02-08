@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: SWE Wannabe
+subtitle: Software & Development Engineer
 
 profile:
   align: right
